@@ -151,3 +151,4 @@ soap
 *.xsd
 *.svcinfo
 *.datasource
+packages
